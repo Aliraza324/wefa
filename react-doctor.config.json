@@ -1,0 +1,28 @@
+{
+  "ignore": {
+    "overrides": [
+      {
+        "files": [
+          "src/App.jsx",
+          "src/api/client.js",
+          "src/app/providers.jsx",
+          "src/components/CommandMenu.jsx",
+          "src/components/FeatureCarousel.jsx",
+          "src/components/MediaPanel.jsx",
+          "src/components/MetricsTable.jsx",
+          "src/components/SignupForm.jsx",
+          "src/features/ui/uiSlice.js",
+          "src/hooks/useStore.js",
+          "src/layout/AppLayout.jsx",
+          "src/pages/Dashboard.jsx",
+          "src/routes/AppRouter.jsx",
+          "src/service/realtime.js",
+          "src/store/index.js",
+          "src/utils/cn.js",
+          "src/utils/whyDidYouRender.js"
+        ],
+        "rules": ["deslop/unused-file"]
+      }
+    ]
+  }
+}
