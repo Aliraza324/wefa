@@ -4,6 +4,7 @@
       {
         "files": [
           "src/App.jsx",
+          "src/animations/animation.js",
           "src/api/client.js",
           "src/app/providers.jsx",
           "src/components/CommandMenu.jsx",
@@ -14,6 +15,9 @@
           "src/features/ui/uiSlice.js",
           "src/hooks/useStore.js",
           "src/layout/AppLayout.jsx",
+          "src/layout/Chat.jsx",
+          "src/layout/Navbar.jsx",
+          "src/layout/Sidebar.jsx",
           "src/pages/Dashboard.jsx",
           "src/routes/AppRouter.jsx",
           "src/service/realtime.js",
