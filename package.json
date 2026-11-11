@@ -5,8 +5,8 @@
   "type": "module",
   "main": "src/main.js",
   "scripts": {
-    "dev": "node init && vite",
-    "build": "node init && vite build",
+    "dev": "vite",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "doctor": "react-doctor"
